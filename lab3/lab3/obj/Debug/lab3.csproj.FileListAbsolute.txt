@@ -1,0 +1,10 @@
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab3\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab3\lab3\lab3\bin\Debug\lab3.exe.config
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab3\lab3\lab3\bin\Debug\lab3.exe
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab3\lab3\lab3\bin\Debug\lab3.pdb
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab3\lab3\lab3\obj\Debug\lab3.exe
+D:\3 Документы (Саша)\БОТВА\БКиТ\lab3\lab3\lab3\obj\Debug\lab3.pdb
+E:\БКиТ\lab3\lab3\lab3\bin\Debug\lab3.exe.config
+E:\БКиТ\lab3\lab3\lab3\obj\Debug\lab3.exe
+E:\БКиТ\lab3\lab3\lab3\obj\Debug\lab3.pdb
